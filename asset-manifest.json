@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/XTACIONAMIENTO/static/js/main.e2e0a3bd.js",
+    "static/media/404.png": "/XTACIONAMIENTO/static/media/404.46d26d73b88c3c244bc6.png",
+    "static/media/Logo.png": "/XTACIONAMIENTO/static/media/Logo.2d90d253eee635dc7b74.png",
+    "static/media/PARKING.png": "/XTACIONAMIENTO/static/media/PARKING.6fe6bfe6e47b205d6deb.png",
+    "index.html": "/XTACIONAMIENTO/index.html",
+    "main.e2e0a3bd.js.map": "/XTACIONAMIENTO/static/js/main.e2e0a3bd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2e0a3bd.js"
+  ]
+}
